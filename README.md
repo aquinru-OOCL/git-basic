@@ -28,4 +28,8 @@ Other useful commands to see what is going on the git repository:
 
 ## Practice Output 
 1. Your repo url in Github
+	https://github.com/aquinru-OOCL/git-basic
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+	`add` is used for staging the specified files with changes.
+	`commit` is used to lock in your changes into the local repository.
+	Lastly, `push` is used to apply your committed changes in the GitHub repository.
